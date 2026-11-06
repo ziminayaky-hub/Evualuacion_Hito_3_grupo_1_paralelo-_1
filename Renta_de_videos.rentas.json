@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6aedc83509a6eacaa3802258"
+  },
+  "recibo": 1,
+  "idCliente": 1,
+  "codigoVideo": 1,
+  "fechaRenta": "2026-10-01",
+  "pago": 10,
+  "devuelto": "Si"
+},
+{
+  "_id": {
+    "$oid": "6aedc83509a6eacaa3802259"
+  },
+  "recibo": 2,
+  "idCliente": 2,
+  "codigoVideo": 2,
+  "fechaRenta": "2026-10-05",
+  "pago": 10,
+  "devuelto": "Si"
+},
+{
+  "_id": {
+    "$oid": "6aedc83509a6eacaa380225a"
+  },
+  "recibo": 3,
+  "idCliente": 1,
+  "codigoVideo": 3,
+  "fechaRenta": "2026-11-02",
+  "pago": 8,
+  "devuelto": "No"
+},
+{
+  "_id": {
+    "$oid": "6aedc83509a6eacaa380225b"
+  },
+  "recibo": 4,
+  "idCliente": 3,
+  "codigoVideo": 4,
+  "fechaRenta": "2026-11-04",
+  "pago": 6,
+  "devuelto": "No"
+}]
