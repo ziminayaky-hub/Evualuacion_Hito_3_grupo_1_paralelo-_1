@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6aedc5f209a6eacaa3802251"
+  },
+  "idCliente": 1,
+  "nombre": "Ana Quispe",
+  "telefono": "70011122"
+},
+{
+  "_id": {
+    "$oid": "6aedc5f209a6eacaa3802252"
+  },
+  "idCliente": 2,
+  "nombre": "Luis Mamani",
+  "telefono": "70022233"
+},
+{
+  "_id": {
+    "$oid": "6aedc5f209a6eacaa3802253"
+  },
+  "idCliente": 3,
+  "nombre": "Marta Rojas",
+  "telefono": "70033344"
+}]
