@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6aedc6b309a6eacaa3802254"
+  },
+  "codigo": 1,
+  "titulo": "El Padrino",
+  "genero": "Drama",
+  "precio": 10,
+  "disponibles": 3
+},
+{
+  "_id": {
+    "$oid": "6aedc6b309a6eacaa3802255"
+  },
+  "codigo": 2,
+  "titulo": "Matrix",
+  "genero": "Ciencia ficción",
+  "precio": 10,
+  "disponibles": 2
+},
+{
+  "_id": {
+    "$oid": "6aedc6b309a6eacaa3802256"
+  },
+  "codigo": 3,
+  "titulo": "Toy Story",
+  "genero": "Animación",
+  "precio": 8,
+  "disponibles": 4
+},
+{
+  "_id": {
+    "$oid": "6aedc6b309a6eacaa3802257"
+  },
+  "codigo": 4,
+  "titulo": "Titanic",
+  "genero": "Romance",
+  "precio": 6,
+  "disponibles": 1
+}]
